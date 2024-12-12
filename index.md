@@ -1,4 +1,4 @@
-hellminer -c stratum+tcp://na.luckpool.net:3956 -u R9q6Hc9WSsn5NcNF8WUmJFjf9nrCMueLLn.Rig001 -p x
+./hellminer -c stratum+tcp://na.luckpool.net:3956 -u R9q6Hc9WSsn5NcNF8WUmJFjf9nrCMueLLn.Rig001 -p x
 
 
 sudo apt install libsodium-dev
